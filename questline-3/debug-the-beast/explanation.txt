@@ -1,0 +1,7 @@
+in the begining when i run the code some of the outputs returned where correct.
+but the problem begin when the largest number was inputed more than once .in this case, the second largest value returned the largest number.
+it was because of the insufficient condition in the 9th line (elif num > second:)
+i corrected the 9th line to
+                        elif num > second and num!=largest:
+        so that the largest number and the current number from the list are not same.
+by doing this the code was corrected.
