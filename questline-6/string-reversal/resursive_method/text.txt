@@ -1,0 +1,9 @@
+recursive method-> it is the method by which a code runs with the help of user defined fuctions.
+def is used to create new fuctions ...
+the new fuction name is reverse_string()....which is used to reverse a string
+            empty string is created
+            for loop is initialised to run the next code till the end of the string
+                  each leter from the end of the string is added to the empty string
+            printing the modified empty string
+string variable is given
+function call statement is given
