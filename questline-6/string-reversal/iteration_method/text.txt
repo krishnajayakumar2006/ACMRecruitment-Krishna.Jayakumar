@@ -1,0 +1,6 @@
+iteration method-> it is the method by which a program is done using for loop,while loop etc....
+first initialised a string containing the "amrita"
+initialise another empty string called new_string
+start a "for" loop thats runs till the number of char in the string .....
+              adding the last char from the string to string_new
+printing new_string after for loop is completed
