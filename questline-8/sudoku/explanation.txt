@@ -1,1 +1,2 @@
-initialise the first element in first column as 1
+initialise the first element in first column as 1 and first element in second column as 2 
+then by comparing each row and column the empty spaces are filled such that no elements repeat in row or column
