@@ -13,4 +13,4 @@ i        |       step{i}      |      SUM     |     SUM=SUM+A
 3        |       step{3}      |       10     |        15
 -------------------------------------------------------------
 the loop will stop running after completing the value i=3 .
-the current value of SUM is 15 therefore the output will be 15
+the current value of SUM is 15 therefore the final output will be printed as 15
