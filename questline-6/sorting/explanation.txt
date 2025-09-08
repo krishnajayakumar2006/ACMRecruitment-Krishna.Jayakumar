@@ -1,0 +1,10 @@
+initialise a list 'n'
+starting a for loop so that arranging of elements happen till the largest element reach the right side
+           that ie,.... all the elemnts are compared to all the other elements
+           another loop is created in this loop to get all the elements from start to end (""j"" from 0 to len(n))
+                   if statement is given to check if the value of j is length of n(if s there is no point in sorting anymore as we have reached the end of the list)
+                              break condition is given to begin sorting onceagain from the begining
+                   elif (if the first elements is greater than the second this statement is executed)
+                              first element if switched with the second element such that the second element is the highest
+printing the modified list
+                              
