@@ -1,0 +1,7 @@
+the farmer should take the goat first -> becuase the wolf won't eat the cabbage
+return without the goat
+take cabbage with the farmer 
+retunr with goat(if goat is left with cabbage , goat will eat cabbage)
+leave goat and take wolf
+leave wolf with cabbage and return alone
+take goat 
