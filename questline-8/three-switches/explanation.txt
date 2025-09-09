@@ -1,0 +1,6 @@
+there are 3 switches->switch1, switch2 , switch3
+turn on the switch1 and leave it for sometime(10 min).turn it off and trun on the next switch (switch2).
+keep it on and enter the room 
+- if the bulb is turned on it is switch2 (currently it is turned on)
+- if the switch is off and if it emits heat it is switch1 (switch1 was kept on for sometime therefore, it emits heat)
+-if the switch is off and if it is doesn't emit heat it is switch3 (because it was never turned on) 
