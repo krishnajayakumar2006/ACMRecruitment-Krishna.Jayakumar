@@ -1,0 +1,3 @@
+this question asks us to rotate the elements till a specifies index(k) to the right and the remaining elements should come to left
+...................................
+for the solution part i used string slicing to optain the elements till k step and the moved it into right and the left side elemet is moved to right
